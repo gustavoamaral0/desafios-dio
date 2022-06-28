@@ -1,2 +1,2 @@
 # desafios-dio
-Desafio de projeto da plataformar Dio
+Desafio de projeto da plataforma Dio
